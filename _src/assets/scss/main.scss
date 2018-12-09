@@ -15,10 +15,7 @@ body{
 	background: green;
 	color:white;
 }
-.user_name{
-	margin:60px;
-	
-}
+
 .user_name-list{
 	list-style: none;
 	padding: 0 ;
@@ -26,8 +23,8 @@ body{
 	list-style: none;
 	display: flex;
 	justify-content: space-between;
-
 }
+
 .name-list-item {
 	flex-grow: 1;
 	background: white;
